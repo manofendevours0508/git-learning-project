@@ -1,4 +1,6 @@
 # Git Practice
+This project documents my practical journey of learning Git and GitHub.
+It demonstrates version control, repository management, and basic Git operations.
 
 This is my Git learning project.
 
